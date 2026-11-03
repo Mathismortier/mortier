@@ -1,12 +1,11 @@
 ---
-name: "Double band, opal"
+name: Opal Ring
 category: ring
-material: "Sterling silver"
-stone: "Opal"
-description: ""
-details: []
 photos:
-  - "/img/bague-opale.jpg"
+  - /img/bague-opale.jpg
+  - /img/IMG_20211230_013838.jpg
+material: Sterling silver
+stone: Opal
 home: false
 selected: false
 order: 170
