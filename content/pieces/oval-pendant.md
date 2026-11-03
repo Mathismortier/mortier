@@ -1,13 +1,10 @@
 ---
-name: "Oval pendant"
+name: Climber pendant
 category: neck
-material: "Sterling silver"
-stone: ""
-description: ""
-details: []
 photos:
-  - "/img/pendentif-ovale.jpg"
+  - /img/pendentif-ovale.jpg
+material: Sterling silver
 home: false
-selected: false
+selected: true
 order: 140
 ---
