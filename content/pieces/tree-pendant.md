@@ -11,6 +11,6 @@ details:
   - label: Finish
     value: Pierced, oxidised ground
 home: false
-selected: true
+selected: false
 order: 250
 ---
