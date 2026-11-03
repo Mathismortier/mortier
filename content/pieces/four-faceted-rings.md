@@ -13,6 +13,6 @@ description: These four different patterns are all sculpted from an hexagonal
   shape. These rings are bringing me back to the mountains, the desert and the
   sea.
 home: false
-selected: true
+selected: false
 order: 130
 ---
