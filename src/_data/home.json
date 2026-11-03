@@ -1,19 +1,18 @@
 {
   "hero": {
-    "line": "Jewelry by Mathis Mortier d’Aumont. Sterling silver rings inspired by geometry in nature.",
-    "role": "Goldsmith\nBench jeweler",
+    "line": "Jewellery by Mathis Mortier d’Aumont. Sterling silver rings inspired by texture in the nature.",
+    "role": "Goldsmith\nBench jeweller",
     "image": "/img/anneaux-facettes.jpg",
     "image_alt": "Four faceted sterling silver rings standing in a row"
   },
   "about": {
-    "title": "About me",
-    "lead": "I am a jewelry maker with a strong interest in material, process and form.",
+    "title": "The Jeweller",
+    "lead": "Jewelry maker for the past 3 year with a strong interest in innovative techniques and technical challenges. ",
     "paragraphs": [
       "I enjoy working with my hands, exploring traditional techniques and finding new ways to combine them with contemporary design.",
       "I am looking for a position as a goldsmith or bench jeweler in Amsterdam, to develop my skills and contribute to a creative studio or workshop."
     ],
     "portrait": "/img/mathis-portrait.jpg",
-    "portrait_alt": "Portrait of Mathis Mortier d’Aumont in a black turtleneck, arms crossed",
     "skills_title": "Skills and interests",
     "skills": [
       "Sawing, filing, soldering, polishing",
@@ -28,16 +27,29 @@
     "intro": "Ideas often start with nature, a texture or a feeling. I sketch, explore materials and test different shapes before moving to the final piece.",
     "drawings": [
       {
-        "image": "/img/croquis-collier-bleu.jpg",
-        "alt": "Gouache sketch of a blue bead necklace with a faceted pendant"
-      },
-      {
-        "image": "/img/croquis-collier-bleu-entier.jpg",
-        "alt": "Gouache sketch of the whole blue bead necklace"
-      },
-      {
-        "image": "/img/croquis-boucles-zoom.jpg",
+        "image": "/img/IMG_20211026_075720.jpg",
         "alt": "Gouache drawing of a pair of stud earrings with green stones"
+      },
+      {
+        "image": "/img/IMG_20211027_195039_883.jpg"
+      },
+      {
+        "image": "/img/IMG_20211213_123912.jpg"
+      },
+      {
+        "image": "/img/croquis-collier-bleu.jpg"
+      },
+      {
+        "image": "/img/IMG_20211223_150259.jpg"
+      },
+      {
+        "image": "/img/IMG_20211109_094848 (1).jpg"
+      },
+      {
+        "image": "/img/IMG_20211125_202713.jpg"
+      },
+      {
+        "image": "/img/IMG_20211223_135623.jpg"
       }
     ]
   },
