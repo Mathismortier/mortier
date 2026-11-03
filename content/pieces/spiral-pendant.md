@@ -1,12 +1,10 @@
 ---
-name: "Spiral pendant"
+name: Spiral pendant
 category: neck
-material: "Sterling silver"
-stone: ""
-description: ""
-details: []
 photos:
-  - "/img/pendentif-spirale.jpg"
+  - /img/pendentif-spirale.jpg
+material: Sterling silver
+description: Pendant made by forging the metal against it's flexibility.
 home: false
 selected: false
 order: 30
