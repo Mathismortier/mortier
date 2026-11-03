@@ -7,6 +7,6 @@ photos:
 material: Sterling silver
 description: Very light earrings, made without soldering but with care.
 home: false
-selected: true
+selected: false
 order: 80
 ---
