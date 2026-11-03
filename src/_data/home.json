@@ -7,7 +7,7 @@
   },
   "about": {
     "title": "The Jeweller",
-    "lead": "Jewelry maker for the past 3 year with a strong interest in innovative techniques and technical challenges. ",
+    "lead": " Passionate about manual work, I graduated in 2023. Since then, i developed a strong interest in innovative techniques and technical challenges.",
     "paragraphs": [
       "I enjoy working with my hands, exploring traditional techniques and finding new ways to combine them with contemporary design.",
       "I am looking for a position as a goldsmith or bench jeweler in Amsterdam, to develop my skills and contribute to a creative studio or workshop."
@@ -37,13 +37,13 @@
         "image": "/img/IMG_20211213_123912.jpg"
       },
       {
-        "image": "/img/croquis-collier-bleu.jpg"
-      },
-      {
         "image": "/img/IMG_20211223_150259.jpg"
       },
       {
         "image": "/img/IMG_20211109_094848 (1).jpg"
+      },
+      {
+        "image": "/img/croquis-collier-bleu.jpg"
       },
       {
         "image": "/img/IMG_20211125_202713.jpg"
@@ -52,16 +52,6 @@
         "image": "/img/IMG_20211223_135623.jpg"
       }
     ]
-  },
-  "drawings": {
-    "title": "Drawings",
-    "paragraphs": [
-      "Every piece is drawn twice. First comes a technical drawing, at the very start: it helps me understand proportions, fit and construction before I touch the metal.",
-      "Then a creative drawing gives the piece its identity: its colour, its light, its character."
-    ],
-    "technical_alt": "Technical drawing of the ring",
-    "creative_image": "/img/croquis-bague-or-paysage.jpg",
-    "creative_alt": "Creative drawing of a wide gold ring with three ribs"
   },
   "techniques": {
     "title": "Materials and techniques",
