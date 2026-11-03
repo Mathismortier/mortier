@@ -1,13 +1,10 @@
 ---
-name: "Collision Stellaire bracelet"
+name: Collision Stellaire Necklace
 category: neck
-material: "Sterling silver"
-stone: "Star sapphire"
-description: ""
-details: []
 photos:
-  - "/img/bracelet-collision-stellaire.jpg"
+  - /img/bracelet-collision-stellaire.jpg
+material: Sterling silver
 home: false
-selected: false
+selected: true
 order: 180
 ---
