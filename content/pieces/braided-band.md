@@ -11,7 +11,7 @@ description: This ring is hammered for the texture and rounded for a comfortable
 details:
   - label: Finish
     value: Hammered, polished inside
-home: true
-selected: true
+home: false
+selected: false
 order: 20
 ---
