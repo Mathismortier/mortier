@@ -16,7 +16,7 @@ details:
     value: Crown prongs
   - label: Techniques
     value: Sawing, filing, setting
-home: true
+home: false
 selected: true
 order: 10
 ---
