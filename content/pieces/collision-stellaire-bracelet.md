@@ -5,6 +5,6 @@ photos:
   - /img/bracelet-collision-stellaire.jpg
 material: Sterling silver
 home: false
-selected: true
+selected: false
 order: 180
 ---
