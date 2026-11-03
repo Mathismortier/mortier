@@ -1,12 +1,13 @@
 ---
-name: "Garnet solitaire"
+name: Garnet solitaire
 category: ring
-material: "Sterling silver"
-stone: "Garnet"
-description: ""
-details: []
 photos:
-  - "/img/bague-grenat.jpg"
+  - /img/bague-grenat.jpg
+  - /img/IMG_20220406_150838.jpg
+  - /img/IMG_20220406_151040.jpg
+  - /img/IMG_20220420_131700 (1).jpg
+material: Sterling silver
+stone: Garnet
 home: false
 selected: false
 order: 200
