@@ -1,12 +1,12 @@
 {
   "hero": {
-    "line": "Jewellery by Mathis Mortier d’Aumont. Sterling silver rings inspired by texture in the nature.",
-    "role": "Goldsmith\nBench jeweller",
+    "line": "Jewelry by Mathis Mortier d’Aumont. Sterling silver rings inspired by texture in the nature.",
+    "role": "Goldsmith\nBench jeweler",
     "image": "/img/anneaux-facettes.jpg",
     "image_alt": "Four faceted sterling silver rings standing in a row"
   },
   "about": {
-    "title": "The Jeweller",
+    "title": "The Jeweler",
     "lead": " Passionate about manual work, I graduated in 2023. Since then, i developed a strong interest in innovative techniques and technical challenges.",
     "paragraphs": [
       "I enjoy working with my hands, exploring traditional techniques and finding new ways to combine them with contemporary design.",
