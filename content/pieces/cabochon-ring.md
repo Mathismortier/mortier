@@ -1,5 +1,5 @@
 ---
-name: Cabochon ring
+name: Spinning stones
 category: ring
 photos:
   - /img/bague-cabochon.jpg
