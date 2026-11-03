@@ -1,12 +1,13 @@
 ---
-name: "Three engraved signets"
+name: Minimalistic Rings
 category: ring
-material: "Sterling silver"
-stone: ""
-description: ""
-details: []
 photos:
-  - "/img/trio-chevalieres.jpg"
+  - /img/trio-chevalieres.jpg
+  - /img/IMG_20220926_133742~2.jpg
+  - /img/IMG_20220713_191147.jpg
+material: Sterling silver
+description: Mirror-polished or textured, these three rings are beautifully
+  elegant in their simplicity.
 home: false
 selected: false
 order: 40
