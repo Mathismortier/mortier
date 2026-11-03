@@ -12,6 +12,6 @@ details:
   - label: Finish
     value: Mirror polish
 home: false
-selected: true
+selected: false
 order: 70
 ---
