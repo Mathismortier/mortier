@@ -1,12 +1,10 @@
 ---
-name: "Prong ring, green stone"
+name: Spinning Stone 2
 category: ring
-material: "Gold"
-stone: "Green stone"
-description: ""
-details: []
 photos:
-  - "/img/bague-or-verte.jpg"
+  - /img/bague-or-verte.jpg
+material: Silver
+stone: Green stone
 home: false
 selected: false
 order: 230
